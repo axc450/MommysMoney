@@ -1,0 +1,8 @@
+﻿## Interface: 70300
+## Title: Mommys Money
+## SavedVariables: MM
+## Notes: Sends gold back to your main
+## Author: Notsosuper-Hellscream
+## Version: 1
+
+MommysMoney.lua
